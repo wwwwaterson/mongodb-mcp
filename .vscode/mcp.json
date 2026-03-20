@@ -1,0 +1,10 @@
+{
+    "servers": {
+        "mongodb": {
+            "command": "python",
+            "args": [
+                "d:\\Desenv\\mongodb\\mcp_mongodb_server.py"
+            ]
+        }
+    }
+}
